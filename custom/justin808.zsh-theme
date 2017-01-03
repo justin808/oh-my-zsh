@@ -1,1 +1,0 @@
-/Users/justin/Dropbox/linux/config/zsh/oh-my-zsh/custom/justin808.zsh-theme
